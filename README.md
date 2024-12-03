@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Chacha Sam  
+"# 👋 Hi, I’m Chacha Sam  
 
-Welcome to my corner of GitHub! I'm a passionate **data analyst** and **creative writer** who loves blending technical expertise with storytelling.  
+Welcome to my GitHub profile! I'm a passionate **data analyst** and **creative writer** who loves blending technical expertise with storytelling.  
 
 ## 👀 What I’m Interested In  
 - **Data Analysis & Visualization**: Turning raw data into compelling insights with tools like `Power BI`, `Tableau`, and `Excel`.  
@@ -23,4 +23,4 @@ I’d love to work on projects involving:
 - **Email**: [chachasam57@outlook.com] 
 
 ## ⚡ Fun Fact  
-When I’m not crunching numbers or writing articles, I’m probably exploring the latest trends in `economics`, analyzing EPL & NBA games, or learning a quirky new skill (like decoding ancient languages—just kidding... maybe).
+When I’m not crunching numbers or writing articles, I’m probably exploring the latest trends in `economics`, analyzing EPL & NBA games, or learning a quirky new skill (like decoding ancient languages—just kidding... maybe)."
