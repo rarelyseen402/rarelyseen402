@@ -20,7 +20,7 @@ I’d love to work on projects involving:
 
 ### 📫 Let’s Connect!  
 - [**LinkedIn**](https://www.linkedin.com/in/chacha-gibiti-2a18a5287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
-- [**Email**](chachasam57@outlook.com)
+- [**Email**](mailto:chachasam57@outlook.com)
 
 ### ⚡ Fun Fact  
 When I’m not crunching numbers or writing articles, I’m probably exploring the latest trends in `economics`, analyzing EPL & NBA games, or learning a quirky new skill (like decoding ancient languages—just kidding... maybe)."
