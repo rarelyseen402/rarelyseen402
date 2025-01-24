@@ -1,26 +1,20 @@
 ## 👋 Hi, I’m Chacha Sam  
 
-Welcome to my GitHub profile! I'm a passionate **data analyst** who loves blending technical expertise with storytelling.  
+Welcome to my GitHub profile! I'm a dedicated **data analyst** with expertise in turning raw data into actionable insights.  
 
-### 👀 What I’m Interested In  
-- **Data Analysis & Visualization**: Turning raw data into compelling insights with tools like `Power BI`, `Tableau`, and `Excel`.  
-- **Manual Data Scraping**: Extracting hidden gems from challenging data sources.  
-- **Creative Writing**: Crafting engaging blogs and articles on topics like `e-commerce`, `real estate`, and `lifestyle`.  
+### 👀 What I Work On  
+- **Data Analysis & Visualization**: Using tools like `Power BI`, `Excel`, and `Tableau`.  
+- **Data Cleaning & Preparation**: Ensuring data accuracy and usability.  
+- **Dashboards**: Building interactive solutions for decision-making.  
 
 ### 🌱 Currently Learning  
-I’m expanding my knowledge in:  
-- Advanced `Python` for data analysis and automation.  
-- `Cybersecurity Fundamentals` to stay ahead in tech.  
+- Advanced `Python` for data automation.  
+- `Cybersecurity` fundamentals.  
 
-### 📊 Open to Collaborate  
-I’d love to work on projects involving:  
-- Data visualization dashboards that tell a story.  
-- Blogs and articles that simplify complex concepts for diverse audiences.  
-- Unique integrations of data analytics with creative projects.  
+### 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
 
 ### 📫 Let’s Connect!  
-- [**LinkedIn**](https://www.linkedin.com/in/chacha-gibiti-2a18a5287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+- [**LinkedIn**](https://www.linkedin.com/in/chacha-gibiti-2a18a5287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - [**Email**](mailto:chachasam57@outlook.com)
-
-### ⚡ Fun Fact  
-When I’m not crunching numbers or writing articles, I’m probably exploring the latest trends in `economics`, analyzing EPL & NBA games, or learning a quirky new skill (like decoding ancient languages—just kidding... maybe)."
