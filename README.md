@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I'm a dedicated **data analyst** with expertise in
 - `Cybersecurity` fundamentals.  
 
 ### 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rarelyseen402&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rarelyseen402&layout=compact&theme=radical)
 
 ### 📫 Let’s Connect!  
 - [**LinkedIn**](https://www.linkedin.com/in/chacha-gibiti-2a18a5287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
