@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a dedicated **data analyst** with expertise in turning raw data into actionable insights.  
 
-### 👀 What I Work On  
+### 👀 What I Offer 
 - **Data Analysis & Visualization**: Using tools like `Power BI`, `Excel`, and `Tableau`.  
 - **Data Cleaning & Preparation**: Ensuring data accuracy and usability.  
 - **Dashboards**: Building interactive solutions for decision-making.  
